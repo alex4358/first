@@ -1,2 +1,2 @@
 # first
-# Hi, this is my first projext
+# Hi, this is my first project
